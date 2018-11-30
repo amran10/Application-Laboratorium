@@ -1,5 +1,0 @@
-DTD internal
-
-Sebuah DTD disebut sebagai DTD intern jika unsur dinyatakan dalam file XML. 
-Untuk referensi sebagai DTD internal atribut mandiri dalam deklarasi XML harus diatur ke ya. 
-Ini berarti deklarasi bekerja independen dari sumber eksternal.

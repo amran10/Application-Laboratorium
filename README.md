@@ -1,5 +1,17 @@
 # app laboratorium with yii2
 
+Role User :
+1. Admin
+2. Super Admin (Guru)
+3. Siswa/i
+
+Module :
+Pendaftaran Pengguna Laboratorium
+Penambahan Stock Alat dan Bahan Lab
+Peminjaman dan pengembalian ALat dan Bahan Lab
+Penjadwalan Pengguanaan Lab
+Penambahan kelas dengan pembagian jadwal pemakaian Lab
+
 Syntax
 The syntax of internal DTD is as shown:
 

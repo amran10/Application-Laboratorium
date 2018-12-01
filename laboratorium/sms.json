@@ -1,0 +1,33 @@
+{
+  "status": 0,
+  "status_message": "Success",
+  "lookup_outcome": 0,
+  "lookup_outcome_message": "Success",
+  "request_id": "db567a44-d77a-47a2-8f39-3bb7eac40ea8",
+  "international_format_number": "6289699935552",
+  "national_format_number": "0896-9993-5552",
+  "country_code": "ID",
+  "country_code_iso3": "IDN",
+  "country_name": "Indonesia",
+  "country_prefix": "62",
+  "request_price": "0.03000000",
+  "remaining_balance": "1.702",
+  "current_carrier": {
+    "network_code": "51089",
+    "name": "PT Hutchison 3 Indonesia",
+    "country": "ID",
+    "network_type": "mobile"
+  },
+  "original_carrier": {
+    "network_code": "51089",
+    "name": "PT Hutchison 3 Indonesia",
+    "country": "ID",
+    "network_type": "mobile"
+  },
+  "valid_number": "valid",
+  "reachable": "reachable",
+  "ported": "not_ported",
+  "roaming": {
+    "status": "not_roaming"
+  }
+}
